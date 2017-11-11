@@ -6,6 +6,7 @@ A list of curated resources related to the Apache Kafka ecosystem
 
 * [Kafka: The Definite Guide](https://www.confluent.io/wp-content/uploads/confluent-kafka-definitive-guide-complete.pdf)
 
+## Articles
 
+## Documentation
 
-# Blog posts
