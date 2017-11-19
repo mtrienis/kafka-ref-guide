@@ -1,4 +1,4 @@
-# kafka-curated-resources [Under construction]
+# kafka-curated-resources [Work-in-progress]
 
 A list of curated resources related to the Apache Kafka ecosystem
 
