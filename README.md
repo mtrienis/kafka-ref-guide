@@ -12,3 +12,4 @@ A list of curated resources related to the Apache Kafka ecosystem
 
 ## Documentation
 
+* [Apache Kafka: Broker Config](https://kafka.apache.org/081/documentation.html#brokerconfigs)
