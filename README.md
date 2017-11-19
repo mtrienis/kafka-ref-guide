@@ -19,3 +19,7 @@ Detailed discussion on exactly-once semantics:
 * [Apache Kafka: Connect Config](https://kafka.apache.org/documentation/#connectconfigs)
 * [Apache Kafka: Streams Config](https://kafka.apache.org/documentation/#streamsconfigs)
 * [Apache Kafka: Admin Config](https://kafka.apache.org/documentation/#adminclientconfigs)
+
+## Supplimental Material
+
+* [Designing Data-intensive Aplications](https://dataintensive.net/)
