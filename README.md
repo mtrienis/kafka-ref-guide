@@ -8,7 +8,7 @@ A list of curated resources related to the Apache Kafka ecosystem
 
 ## Insightful blog posts
 
-Detailed discussion on exactly-once semantics: 
+Detailed discussion on exactly-once semantics by the co-founder Jay Kreps: 
 * [Exactly-once Support in Apache Kafka](https://medium.com/@jaykreps/exactly-once-support-in-apache-kafka-55e1fdd0a35f)
 
 ## Frequently accessed docs
