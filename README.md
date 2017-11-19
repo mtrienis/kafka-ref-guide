@@ -13,3 +13,8 @@ A list of curated resources related to the Apache Kafka ecosystem
 ## Docs
 
 * [Apache Kafka: Broker Config](https://kafka.apache.org/documentation.html#brokerconfigs)
+* [Apache Kafka: Producer Config](https://kafka.apache.org/documentation/#producerconfigs)
+* [Apache Kafka: Consumer Config](https://kafka.apache.org/documentation/#consumerconfigs)
+* [Apache Kafka: Connect Config](https://kafka.apache.org/documentation/#connectconfigs)
+* [Apache Kafka: Streams Config](https://kafka.apache.org/documentation/#streamsconfigs)
+* [Apache Kafka: Admin Config](https://kafka.apache.org/documentation/#adminclientconfigs)
