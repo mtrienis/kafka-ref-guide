@@ -8,5 +8,7 @@ A list of curated resources related to the Apache Kafka ecosystem
 
 ## Articles
 
+* [Exactly-once Support in Apache Kafka](https://medium.com/@jaykreps/exactly-once-support-in-apache-kafka-55e1fdd0a35f)
+
 ## Documentation
 
