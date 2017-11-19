@@ -8,6 +8,7 @@ A list of curated resources related to the Apache Kafka ecosystem
 
 ## Blog posts
 
+Detailed discussion on exactly-once semantics: 
 * [Exactly-once Support in Apache Kafka](https://medium.com/@jaykreps/exactly-once-support-in-apache-kafka-55e1fdd0a35f)
 
 ## Docs
