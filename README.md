@@ -2,16 +2,16 @@
 
 A list of curated resources related to the Apache Kafka ecosystem
 
-## Books
+## Key books
 
 * [Kafka: The Definite Guide](https://www.confluent.io/wp-content/uploads/confluent-kafka-definitive-guide-complete.pdf)
 
-## Blog posts
+## Insightful blog posts
 
 Detailed discussion on exactly-once semantics: 
 * [Exactly-once Support in Apache Kafka](https://medium.com/@jaykreps/exactly-once-support-in-apache-kafka-55e1fdd0a35f)
 
-## Docs
+## Frequently accessed docs
 
 * [Apache Kafka: Broker Config](https://kafka.apache.org/documentation.html#brokerconfigs)
 * [Apache Kafka: Producer Config](https://kafka.apache.org/documentation/#producerconfigs)
