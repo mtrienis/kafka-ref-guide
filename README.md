@@ -1,6 +1,6 @@
-# kafka-curated-resources [Work-in-progress]
+# Apache Kafka Curated Resources
 
-A list of curated resources related to the Apache Kafka ecosystem
+A list of curated resources related to the Apache Kafka ecosystem. It's currently a work-in-progress. 
 
 ## Must-read books
 
