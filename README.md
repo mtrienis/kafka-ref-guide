@@ -1,4 +1,4 @@
-# Apache Kafka Curated Resources
+# Apache reference guide
 
 A list of curated resources related to the Apache Kafka ecosystem. It's currently a work-in-progress. 
 
