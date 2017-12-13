@@ -10,6 +10,7 @@ A list of curated resources related to the Apache Kafka ecosystem. It's currentl
 
 Detailed discussion on exactly-once semantics by the co-founder Jay Kreps: 
 * [Exactly-once Support in Apache Kafka](https://medium.com/@jaykreps/exactly-once-support-in-apache-kafka-55e1fdd0a35f)
+
 Introduction to Kafka Streams by Jay Kreps:
 * [Introducing Kafka Streams: Stream Processing Made Simple](https://www.confluent.io/blog/introducing-kafka-streams-stream-processing-made-simple/)
 
