@@ -14,6 +14,10 @@ Detailed discussion on exactly-once semantics by the co-founder Jay Kreps:
 Introduction to Kafka Streams by Jay Kreps:
 * [Introducing Kafka Streams: Stream Processing Made Simple](https://www.confluent.io/blog/introducing-kafka-streams-stream-processing-made-simple/)
 
+Introduction to KSQL by Neha Narkhede:
+* [Introducing KSQL: Open Source Streaming SQL for Apache Kafka](https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/)
+
+
 ## Frequently accessed docs
 
 * [Apache Kafka: Broker Config](https://kafka.apache.org/documentation.html#brokerconfigs)
