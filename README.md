@@ -8,16 +8,9 @@ A list of curated resources related to the Apache Kafka ecosystem. It's currentl
 
 ## Insightful blog posts
 
-Detailed discussion on exactly-once semantics by the co-founder Jay Kreps: 
 * [Exactly-once Support in Apache Kafka](https://medium.com/@jaykreps/exactly-once-support-in-apache-kafka-55e1fdd0a35f)
-
-Introduction to Kafka Streams by Jay Kreps:
 * [Introducing Kafka Streams: Stream Processing Made Simple](https://www.confluent.io/blog/introducing-kafka-streams-stream-processing-made-simple/)
-
-Introduction to KSQL by Neha Narkhede:
 * [Introducing KSQL: Open Source Streaming SQL for Apache Kafka](https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/)
-
-Should You Put Several Event Types in the Same Kafka Topic?
 * [Should You Put Several Event Types in the Same Kafka Topic?](https://www.confluent.io/blog/put-several-event-types-kafka-topic/)
 
 ## Frequently accessed docs
