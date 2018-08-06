@@ -17,6 +17,8 @@ Introduction to Kafka Streams by Jay Kreps:
 Introduction to KSQL by Neha Narkhede:
 * [Introducing KSQL: Open Source Streaming SQL for Apache Kafka](https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/)
 
+Should You Put Several Event Types in the Same Kafka Topic?
+* [Should You Put Several Event Types in the Same Kafka Topic?](https://www.confluent.io/blog/put-several-event-types-kafka-topic/)
 
 ## Frequently accessed docs
 
