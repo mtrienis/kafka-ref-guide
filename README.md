@@ -13,7 +13,13 @@ A list of curated resources related to the Apache Kafka ecosystem. It's currentl
 * [Introducing KSQL: Open Source Streaming SQL for Apache Kafka](https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/)
 * [Should You Put Several Event Types in the Same Kafka Topic?](https://www.confluent.io/blog/put-several-event-types-kafka-topic/)
 
-## Frequently accessed docs
+## Operations
+
+### System Tools
+
+* https://cwiki.apache.org/confluence/display/KAFKA/System+Tools
+
+### Configuration
 
 * [Apache Kafka: Broker Config](https://kafka.apache.org/documentation.html#brokerconfigs)
 * [Apache Kafka: Producer Config](https://kafka.apache.org/documentation/#producerconfigs)
@@ -22,6 +28,6 @@ A list of curated resources related to the Apache Kafka ecosystem. It's currentl
 * [Apache Kafka: Streams Config](https://kafka.apache.org/documentation/#streamsconfigs)
 * [Apache Kafka: Admin Config](https://kafka.apache.org/documentation/#adminclientconfigs)
 
-## Supplimental Material
+# Supplimental Material
 
 * [Designing Data-intensive Aplications](https://dataintensive.net/)
