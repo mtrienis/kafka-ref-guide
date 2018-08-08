@@ -22,6 +22,7 @@ A list of curated resources related to the Apache Kafka ecosystem. It's currentl
 * [Print JMX Metrics](https://cwiki.apache.org/confluence/display/KAFKA/System+Tools#SystemTools-JMXTool)
 * [Mirror Maker](https://cwiki.apache.org/confluence/display/KAFKA/System+Tools#SystemTools-MirrorMaker)
 * [Simple Consumer Shell](https://cwiki.apache.org/confluence/display/KAFKA/System+Tools#SystemTools-SimpleConsumerShell)
+* [Verify Consumer Rebalance](https://cwiki.apache.org/confluence/display/KAFKA/System+Tools#SystemTools-VerifyConsumerRebalance)
 
 ### Configuration
 
