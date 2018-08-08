@@ -15,9 +15,9 @@ A list of curated resources related to the Apache Kafka ecosystem. It's currentl
 
 ## Operations
 
-### System Tools
+### Tools
 
-* https://cwiki.apache.org/confluence/display/KAFKA/System+Tools
+* [System Tools](https://cwiki.apache.org/confluence/display/KAFKA/System+Tools)
 
 ### Configuration
 
