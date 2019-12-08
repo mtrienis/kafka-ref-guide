@@ -30,6 +30,10 @@ A list of curated resources related to the Apache Kafka ecosystem. It's currentl
 * [Introducing KSQL: Open Source Streaming SQL for Apache Kafka](https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/)
 * [Should You Put Several Event Types in the Same Kafka Topic?](https://www.confluent.io/blog/put-several-event-types-kafka-topic/)
 
+## Blog websites
+
+* [Martin Kleppmann](https://martin.kleppmann.com/)
+
 ## Must-read books
 
 * [Kafka: The Definite Guide](https://www.confluent.io/wp-content/uploads/confluent-kafka-definitive-guide-complete.pdf)
